@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: black;
+    font-family: cursive;
+    margin-left: 700px;
+    color: white;
+}
+
+h1{
+    position: relative;
+    left: 50px;
+    top: 20px;
+}
+
+img{
+    position: relative;
+    right: 200px;
+    top: 100px;
+}
+
+.descrição{
+margin-top: 200px;
+flex-direction: row;
+position: relative;
+right: 170px;
+}
+
